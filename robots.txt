@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kammerjaeger.dokufile.com/sitemap.xml
